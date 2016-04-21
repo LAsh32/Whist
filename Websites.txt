@@ -1,0 +1,5 @@
+Websites:
+http://makemobiapps.blogspot.com/p/multiple-client-server-chat-programming.html
+http://www.informit.com/articles/article.aspx?p=26350
+http://stackoverflow.com/questions/2564984/java-playing-cards-game-framework
+http://stackoverflow.com/questions/20719838/creating-a-game-lobby
